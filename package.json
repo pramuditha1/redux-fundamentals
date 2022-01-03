@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pramuditha1/redux-fundamentals/issues"
   },
-  "homepage": "https://github.com/pramuditha1/redux-fundamentals#readme"
+  "homepage": "https://github.com/pramuditha1/redux-fundamentals#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "redux": "^4.1.2"
+  }
 }
