@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/pramuditha1/redux-fundamentals#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "nodemon": "^2.0.15",
     "redux": "^4.1.2",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
   }
 }
